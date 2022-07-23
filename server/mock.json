@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "title": "Turnaround™ Overnight Revitalizing Moisturizer",
+      "price": "$42.00",
+      "image": "product-2.svg"
+    },
+    {
+      "title": "Superdefense™ Daily Defense Moisturizer Broad Spectrum SPF 20",
+      "price": "$48.00",
+      "image": "product-3.svg"
+    },
+    {
+      "title": "Even Better™ Skin Tone Correcting Moisturizer Broad Spectrum SPF 20",
+      "price": "$50.00",
+      "image": "product-4.svg"
+    },
+    {
+      "title": "Moisture Surge™ Hydrating Supercharged Concentrate",
+      "price": "$39.00",
+      "image": "product-5.svg"
+    }
+  ]
+}
